@@ -1,4 +1,4 @@
-# CodingAssignment_UB
+# CodingAssignment1_UB
 
 ## This assignment was completed as a mandatory component of the course "CSE574 - Introduction to Machine Learning" at the University at Buffalo. 
 ## Rishang Prashnani | Fall 2023 | MS in Engineering Science
